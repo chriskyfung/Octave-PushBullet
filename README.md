@@ -24,4 +24,4 @@ pushNoteViaCurl(...) -- send a text note to a device via PushBullet
 
 Underdevelopment
 ================
-load_devices
+load_devices(...) -- get the devices_iden from PushBullet
